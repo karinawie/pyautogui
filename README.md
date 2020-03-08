@@ -4,4 +4,4 @@ PyAutoGUI is a cross-platform GUI automation Python module for human beings. Use
 
 #pip install pyautogui
 
-Full documentation available at https://pyautogui.readthedocs.org
+Documentation: https://pyautogui.readthedocs.org
