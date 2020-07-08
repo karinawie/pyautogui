@@ -1,13 +1,13 @@
-## Relatórios de Cursos 2005
+#Relatórios de Cursos 2005
 
 import webbrowser 
 import pyautogui
 import time
 import os
 
-os.chdir('/home/Karina/Downloads/relatorios2011')
+os.chdir('/home/Karina/Downloads/relatorios2005')
 downloads_dir = ''
-brrt_dir = '/home/Karina/Documents/teste'
+brrt_dir = '/home/Karina/Documents/RelatorioCurso'
 
 webbrowser.open('http://enadeies.inep.gov.br/enadeResultado/site/relatorioDeCurso.seam')
 pyautogui.moveTo(1354, 530);pyautogui.click();time.sleep(2);pyautogui.position()
