@@ -7,4 +7,5 @@ PyAutoGUI is a cross-platform GUI automation Python module for human beings. Use
 Documentation: https://pyautogui.readthedocs.org
 
 http://enadeies.inep.gov.br/enadeResultado/site/relatorioDeCurso.seam (2004-2009)
+
 http://enadeies.inep.gov.br/enadeIes/site/public/resultado/consultaResultadoCurso.seam (2010-2018)
